@@ -2,6 +2,7 @@
 DONT SELL IT, BECAUSE THIS SOURCE ME GIVE FOR FREEE. 100% Free
 This Program Can Make Your Http Connection to be Connection timeout
 
+I make this program with GucktubeYT#3123
 Change SERVERIP to Your VPS IP
 Change TULISPASSWORD to your password 
 
