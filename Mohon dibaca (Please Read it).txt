@@ -4,7 +4,8 @@ This Program Can Make Your Http Connection to be Connection timeout
 Change SERVERIP to Your VPS IP
 Change TULISPASSWORD to your password 
 
-Change port 17091 if you using Other Port
+Change port 17091 if you using Other UDP Port
+for check your UDP port go ctrl+f and type port
 
 Don't change Port 80 Ok
 
