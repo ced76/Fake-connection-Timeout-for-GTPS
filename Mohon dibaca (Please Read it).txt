@@ -1,0 +1,14 @@
+# Fake-connection-Timeout-for-GTPS
+This Program Can Make Your Http Connection to be Connection timeout
+
+Change SERVERIP to Your VPS IP
+Change TULISPASSWORD to your password 
+
+Change port 17091 if you using Other Port
+
+Don't change Port 80 Ok
+
+Don't forget Follow and Star my Repositories
+
+                   
+          
