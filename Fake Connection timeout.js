@@ -1,6 +1,6 @@
 //gtps http block req GET
 //Gtps http
-//made by C e d r i c#0001
+//made by Ceds#0001
 //helped by GucktubeYT#3123
 
 const readline = require("readline");
